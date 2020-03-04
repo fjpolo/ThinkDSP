@@ -2,4 +2,4 @@
 .pyc
 .wav
 .mps3
-/__pycache__
+code/__pycache__/
